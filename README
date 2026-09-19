@@ -1,3 +1,6 @@
+**Study fork of https://github.com/coreutils/coreutils — not official.**
+Author: Kevin Tieu. Personal notes, renamed locals, and comments.
+
 These are the GNU core utilities.  This package is the union of
 the GNU fileutils, sh-utils, and textutils packages.
 
